@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcelete",
+        "uuid": 27047988,
+        "checksum": "vx920j"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
